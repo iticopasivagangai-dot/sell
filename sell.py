@@ -60,7 +60,7 @@ cars = [
         "transmission": "Automatic",
         "city": "Chennai",
         "owner": "First Owner",
-        "image": "images/creta.jpg"
+        "image": "C:\Users\HP\Pictures\creta.jpg"
     },
 
     {
