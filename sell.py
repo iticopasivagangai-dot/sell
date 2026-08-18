@@ -72,7 +72,7 @@ cars = [
         "transmission": "Manual",
         "city": "Coimbatore",
         "owner": "First Owner",
-        "image": "images/swift.jpg"
+        "image": "images/creta.jpg"
     },
 
     {
@@ -84,7 +84,7 @@ cars = [
         "transmission": "Manual",
         "city": "Madurai",
         "owner": "Second Owner",
-        "image": "images/innova.jpg"
+        "image": "creta.jpg"
     },
 
     {
