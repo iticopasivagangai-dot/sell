@@ -60,7 +60,7 @@ cars = [
         "transmission": "Automatic",
         "city": "Chennai",
         "owner": "First Owner",
-        "image": "C:\Users\HP\Pictures\creta.jpg"
+        "image": "https://www.carlelo.com/hyundai-cars/creta/images"
     },
 
     {
