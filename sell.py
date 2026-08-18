@@ -1,4 +1,3 @@
-
 import streamlit as st
 
 # ---------------- PAGE SETTINGS ----------------
@@ -52,7 +51,7 @@ cars = [
         "transmission": "Automatic",
         "city": "Chennai",
         "owner": "First Owner",
-        "image": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6"
+        "icon": "🚙"
     },
     {
         "name": "Maruti Swift",
